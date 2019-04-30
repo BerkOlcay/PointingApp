@@ -5,18 +5,62 @@
 //  Created by Berk on 20.11.18.
 //  Copyright © 2018 Berk Olcay. All rights reserved.
 //
-
+import Google
+import GoogleSignIn
 import UIKit
+import MediaPlayer
+
+extension UIViewController {
+    var settings: Settings {
+        return (UIApplication.shared.delegate as! AppDelegate).settings
+    }
+}
 
 @UIApplicationMain
+
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-
+    //The settings should be accessible everywhere in app
+    var settings = Settings.init(id: 1,
+                                 volumeLevel: (UserDefaults.standard.value(forKey: "volumeLevel") ?? 0.5) as! Double,
+                                 language: (UserDefaults.standard.value(forKey: "language")  ?? "English") as! String,
+                                 cloudId: (UserDefaults.standard.value(forKey: "cloudId") ?? "") as! String,
+                                 cloudPw: (UserDefaults.standard.value(forKey: "cloudPw") ?? "") as! String)
+    
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        DataHandler.loadTestDataFromJSON()
+        if DataHandler.tests.isEmpty {
+            print ("DataHabdler is empty")
+        }
+        
+        //Google api setup
+        var configureError: NSError?
+        GGLContext.sharedInstance().configureWithError(&configureError)
+        assert(configureError == nil, "Error configuring Google services: \(configureError)")
+        
         return true
+    }
+    
+    //Google api setup
+    func application(_ application: UIApplication,
+                     open url: URL, sourceApplication: String?, annotation: Any) -> Bool {
+        return GIDSignIn.sharedInstance().handle(url,
+                                                 sourceApplication: sourceApplication,
+                                                 annotation: annotation)
+    }
+    
+    //Google api setup
+    @available(iOS 9.0, *)
+    func application(_ app: UIApplication, open url: URL,
+                     options: [UIApplication.OpenURLOptionsKey : Any]) -> Bool {
+        let sourceApplication = options[UIApplication.OpenURLOptionsKey.sourceApplication] as? String
+        let annotation = options[UIApplication.OpenURLOptionsKey.annotation]
+        return GIDSignIn.sharedInstance().handle(url,
+                                                 sourceApplication: sourceApplication,
+                                                 annotation: annotation)
     }
 
     func applicationWillResignActive(_ application: UIApplication) {

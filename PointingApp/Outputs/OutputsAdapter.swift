@@ -7,3 +7,7 @@
 //
 
 import Foundation
+protocol OutputsAdapter {
+    func generateOutputAlphabetical(test: Test, patient: Patient) -> String
+    func generateOutputShuffled(test: Test, patient: Patient) -> String
+}

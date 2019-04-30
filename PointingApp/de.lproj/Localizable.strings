@@ -5,3 +5,43 @@
   Created by Berk on 23.11.18.
   Copyright © 2018 Berk Olcay. All rights reserved.
 */
+"exit_string" = "Die App wird beendet, um die Spracheinstellungen zu speichern.";
+"eyes_open" = "Augen offen";
+"eyes_closed" = "Augen zu";
+"mental_rotations_90" = "Mentale Rotation 90°";
+"eyes_on_calibration_1" = "Augen zu Eichpunkte 1";
+"eyes_on_calibration_2" = "Augen zu Eichpunkte 2";
+"rotation_left" = "Rotation links";
+"rotation_right" = "Rotation rechts";
+"Male" = "Mann";
+"Female" = "Frau";
+"Point to the following target:" = "Auf folgendes Objekt zeigen:";
+"Patient's name" = "Vorname von Patient";
+"Patient's surname" = "Nachname von Patient";
+"Patient's birthday" = "Geburtsdatum von Patient";
+"Patient's gender" = "Geschlecht des Patient";
+"Name of the test" = "Testname";
+"Mode of the test" = "Testmodus";
+"Plain Text" = "Textform";
+"JSON" = "JSON";
+"Success" = "Erfolgreich";
+"Saved to drive" = "Gespeichert auf Drive";
+"Error" = "Fehler";
+"Problem on saving to drive" = "Fehler bei Speichern auf Drive";
+"Done" = "Fertig";
+"Delete" = "Löschen";
+"Test finished." = "Der Test wurde beendet.";
+"Alphabetical" = "Alphabetisch";
+"Shuffled" = "Gemischt";
+"View Tests" = "Testansicht";
+"TestControllertitleField" = "Tippen zum Bearbeiten.\nBeispiel für Eingabe:\nObjekt 1\nObjekt 2\nObjekt 3\n...\n";
+"English" = "Englisch";
+"German" = "Deutsch";
+"Back" = "Zurück";
+"Patient's handedness" = "Händigkeit das Patienten";
+"Patient's identification number" = "Identifikationsnummer das Patienten";
+"Lefthanded" = "linkshändig";
+"Righthanded" = "rechtshändig";
+
+
+

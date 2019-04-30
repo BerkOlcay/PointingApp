@@ -1,141 +1,140 @@
-
 /* Class = "UITextView"; text = "Tap to edit.\nExample input:\nObject 1\nObject 2\nObject 3\n...\n"; ObjectID = "6Qu-QS-TH4"; */
-"6Qu-QS-TH4.text" = "Tap to edit.\nExample input:\nObject 1\nObject 2\nObject 3\n...\n";
+"6Qu-QS-TH4.text" = "Tippen zum Bearbeiten.\nBeispiel für Eingabe:\nObjekt 1\nObjekt 2\nObjekt 3\n...\n";
 
 /* Class = "UILabel"; text = "/(object,name)"; ObjectID = "6j4-bF-pdf"; */
 "6j4-bF-pdf.text" = "/(object,name)";
 
 /* Class = "UILabel"; text = "Objects"; ObjectID = "7Jd-b4-bk3"; */
-"7Jd-b4-bk3.text" = "Objects";
+"7Jd-b4-bk3.text" = "Objekte";
 
 /* Class = "UINavigationItem"; title = "Settings"; ObjectID = "98l-gU-4hl"; */
-"98l-gU-4hl.title" = "Settings";
+"98l-gU-4hl.title" = "Einstellungen";
 
 /* Class = "UIButton"; normalTitle = "Start Test"; ObjectID = "9Cq-rh-K9d"; */
-"9Cq-rh-K9d.normalTitle" = "Start Test";
+"9Cq-rh-K9d.normalTitle" = "Beginne Test";
 
 /* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "AFB-kA-rrp"; */
-"AFB-kA-rrp.title" = "Edit";
+"AFB-kA-rrp.title" = "Bearbeiten";
 
 /* Class = "UILabel"; text = "Repetitions"; ObjectID = "CRZ-z2-AO4"; */
-"CRZ-z2-AO4.text" = "Repetitions";
+"CRZ-z2-AO4.text" = "Wiederholungen";
 
 /* Class = "UINavigationItem"; title = "View Tests"; ObjectID = "DYU-7J-2eI"; */
-"DYU-7J-2eI.title" = "View Tests";
+"DYU-7J-2eI.title" = "Testansicht";
 
 /* Class = "UILabel"; text = "Test Title"; ObjectID = "GGw-3v-z4e"; */
-"GGw-3v-z4e.text" = "Test Title";
+"GGw-3v-z4e.text" = "Testname";
 
 /* Class = "UIButton"; normalTitle = "English"; ObjectID = "H6m-SI-oVU"; */
-"H6m-SI-oVU.normalTitle" = "English";
+"H6m-SI-oVU.normalTitle" = "Englisch";
 
 /* Class = "UISegmentedControl"; HFy-5D-1aQ.segmentTitles[0] = "First"; ObjectID = "HFy-5D-1aQ"; */
-"HFy-5D-1aQ.segmentTitles[0]" = "First";
+"HFy-5D-1aQ.segmentTitles[0]" = "Zuerst";
 
 /* Class = "UISegmentedControl"; HFy-5D-1aQ.segmentTitles[1] = "Second"; ObjectID = "HFy-5D-1aQ"; */
-"HFy-5D-1aQ.segmentTitles[1]" = "Second";
+"HFy-5D-1aQ.segmentTitles[1]" = "Zweite";
 
 /* Class = "UISegmentedControl"; IDO-PM-XLc.segmentTitles[0] = "Male"; ObjectID = "IDO-PM-XLc"; */
-"IDO-PM-XLc.segmentTitles[0]" = "Male";
+"IDO-PM-XLc.segmentTitles[0]" = "männlich";
 
 /* Class = "UISegmentedControl"; IDO-PM-XLc.segmentTitles[1] = "Female"; ObjectID = "IDO-PM-XLc"; */
-"IDO-PM-XLc.segmentTitles[1]" = "Female";
+"IDO-PM-XLc.segmentTitles[1]" = "weiblich";
 
 /* Class = "UIBarButtonItem"; title = "New"; ObjectID = "K4G-dy-aw7"; */
-"K4G-dy-aw7.title" = "New";
+"K4G-dy-aw7.title" = "Neu";
 
 /* Class = "UILabel"; text = "GPS Information"; ObjectID = "M5I-b1-A6c"; */
 "M5I-b1-A6c.text" = "GPS Information";
 
 /* Class = "UIButton"; normalTitle = "Save to Google Drive"; ObjectID = "OKS-Di-6FW"; */
-"OKS-Di-6FW.normalTitle" = "Save to Google Drive";
+"OKS-Di-6FW.normalTitle" = "Auf Google Drive speichern";
 
 /* Class = "UIButton"; normalTitle = "German"; ObjectID = "OfA-zd-nCm"; */
-"OfA-zd-nCm.normalTitle" = "German";
+"OfA-zd-nCm.normalTitle" = "Deutsch";
 
 /* Class = "UINavigationItem"; title = "Object /(currentItem)//(totalItem)"; ObjectID = "P18-FE-nGG"; */
-"P18-FE-nGG.title" = "Object /(currentItem)//(totalItem)";
+"P18-FE-nGG.title" = "Objekt /(currentItem)//(totalItem)";
 
 /* Class = "UILabel"; text = "Test Mode"; ObjectID = "PIv-qC-s6O"; */
-"PIv-qC-s6O.text" = "Test Mode";
+"PIv-qC-s6O.text" = "Testmodus";
 
 /* Class = "UIBarButtonItem"; title = "done"; ObjectID = "Q2g-Tt-nhH"; */
-"Q2g-Tt-nhH.title" = "done";
+"Q2g-Tt-nhH.title" = "Fertig";
 
 /* Class = "UIButton"; normalTitle = "Start Test"; ObjectID = "Qtw-gG-1D7"; */
-"Qtw-gG-1D7.normalTitle" = "Start Test";
+"Qtw-gG-1D7.normalTitle" = "Beginne Test";
 
 /* Class = "UIBarButtonItem"; title = "done"; ObjectID = "Qz1-4U-5fs"; */
-"Qz1-4U-5fs.title" = "done";
+"Qz1-4U-5fs.title" = "Fertig";
 
 /* Class = "UILabel"; text = "Volume Level"; ObjectID = "Rmt-TE-2LN"; */
-"Rmt-TE-2LN.text" = "Volume Level";
+"Rmt-TE-2LN.text" = "Lautstärke";
 
 /* Class = "UILabel"; text = "(latitude, longtitude)"; ObjectID = "SAJ-3q-9Eb"; */
 "SAJ-3q-9Eb.text" = "(latitude, longtitude)";
 
 /* Class = "UINavigationItem"; title = "Patient Information"; ObjectID = "Uwe-1I-gk4"; */
-"Uwe-1I-gk4.title" = "Patient Information";
+"Uwe-1I-gk4.title" = "Patienteninformation";
 
 /* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "Vtq-Yw-mGT"; */
-"Vtq-Yw-mGT.title" = "Settings";
+"Vtq-Yw-mGT.title" = "Einstellungen";
 
 /* Class = "UILabel"; text = "0°"; ObjectID = "ZNB-tL-fHc"; */
 "ZNB-tL-fHc.text" = "0°";
 
 /* Class = "UILabel"; text = "Identification Number"; ObjectID = "aWc-6H-p89"; */
-"aWc-6H-p89.text" = "Identification Number";
+"aWc-6H-p89.text" = "Identifikationsnummer";
 
 /* Class = "UILabel"; text = "Gender"; ObjectID = "bjx-yO-ubW"; */
-"bjx-yO-ubW.text" = "Gender";
+"bjx-yO-ubW.text" = "Geschlecht";
 
 /* Class = "UINavigationItem"; title = "Object /(currentItem)//(totalItem)"; ObjectID = "ckc-Xd-vnh"; */
 "ckc-Xd-vnh.title" = "Object /(currentItem)//(totalItem)";
 
 /* Class = "UILabel"; text = "Language"; ObjectID = "dnb-Jr-DUJ"; */
-"dnb-Jr-DUJ.text" = "Language";
-
-/* Class = "UIBarButtonItem"; title = "View Tests"; ObjectID = "e5S-Wg-502"; */
-"e5S-Wg-502.title" = "View Tests";
+"dnb-Jr-DUJ.text" = "Sprache";
 
 /* Class = "UILabel"; text = "Point to the following target:"; ObjectID = "emj-vq-a9s"; */
-"emj-vq-a9s.text" = "Point to the following target:";
+"emj-vq-a9s.text" = "Auf folgendes Objekt zeigen:";
 
 /* Class = "UILabel"; text = "Volume"; ObjectID = "gGz-Wh-TfL"; */
-"gGz-Wh-TfL.text" = "Volume";
+"gGz-Wh-TfL.text" = "Lautstärke";
+
+/* Class = "UILabel"; text = "Patient Handedness"; ObjectID = "wU1-bs-YUF"; */
+"wU1-bs-YUF.text" = "Händigkeit das Patienten";
 
 /* Class = "UISegmentedControl"; hPr-Az-zGg.segmentTitles[0] = "Lefthanded"; ObjectID = "hPr-Az-zGg"; */
-"hPr-Az-zGg.segmentTitles[0]" = "Lefthanded";
+"hPr-Az-zGg.segmentTitles[0]" = "linkshändig";
 
 /* Class = "UISegmentedControl"; hPr-Az-zGg.segmentTitles[1] = "Righthanded"; ObjectID = "hPr-Az-zGg"; */
-"hPr-Az-zGg.segmentTitles[1]" = "Righthanded";
+"hPr-Az-zGg.segmentTitles[1]" = "rechtshändig";
 
 /* Class = "UILabel"; text = "Title"; ObjectID = "hp4-dw-9r6"; */
-"hp4-dw-9r6.text" = "Title";
+"hp4-dw-9r6.text" = "Titel";
 
 /* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "kNV-BG-MDU"; */
 "kNV-BG-MDU.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
 
 /* Class = "UILabel"; text = "Surname"; ObjectID = "kTO-fT-ODu"; */
-"kTO-fT-ODu.text" = "Surname";
+"kTO-fT-ODu.text" = "Nachname";
 
 /* Class = "UILabel"; text = "Compass Section"; ObjectID = "kvO-hm-asf"; */
-"kvO-hm-asf.text" = "Compass Section";
+"kvO-hm-asf.text" = "Kompassinformation";
 
 /* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "loY-e7-6uG"; */
-"loY-e7-6uG.title" = "Save";
+"loY-e7-6uG.title" = "Speichern";
 
 /* Class = "UILabel"; text = "Title"; ObjectID = "mJy-i4-eOe"; */
-"mJy-i4-eOe.text" = "Title";
+"mJy-i4-eOe.text" = "Titel";
 
 /* Class = "UILabel"; text = "Birthday"; ObjectID = "msT-Is-wlU"; */
-"msT-Is-wlU.text" = "Birthday";
+"msT-Is-wlU.text" = "Geburtstag";
 
 /* Class = "UILabel"; text = "Name"; ObjectID = "nhP-SR-uI5"; */
-"nhP-SR-uI5.text" = "Name";
+"nhP-SR-uI5.text" = "Vorname";
 
 /* Class = "UINavigationItem"; title = "New Test"; ObjectID = "scJ-oO-WAO"; */
-"scJ-oO-WAO.title" = "New Test";
+"scJ-oO-WAO.title" = "Neuer Test";
 
 /* Class = "UISegmentedControl"; u49-dY-TYM.segmentTitles[0] = "First"; ObjectID = "u49-dY-TYM"; */
 "u49-dY-TYM.segmentTitles[0]" = "First";
@@ -146,8 +145,8 @@
 /* Class = "UINavigationItem"; title = "\\(testname)"; ObjectID = "w2O-O5-2GF"; */
 "w2O-O5-2GF.title" = "\\(testname)";
 
-/* Class = "UILabel"; text = "Patient Handedness"; ObjectID = "wU1-bs-YUF"; */
-"wU1-bs-YUF.text" = "Patient Handedness";
-
 /* Class = "UILabel"; text = "Language"; ObjectID = "yDf-s4-18a"; */
-"yDf-s4-18a.text" = "Language";
+"yDf-s4-18a.text" = "Sprache";
+
+/* Class = "UIBarButtonItem"; title = "next"; ObjectID = "zvU-3g-qd7"; */
+"zvU-3g-qd7.title" = "weiter";

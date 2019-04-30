@@ -5,3 +5,38 @@
   Created by Berk on 23.11.18.
   Copyright © 2018 Berk Olcay. All rights reserved.
 */
+"exit_string" = "The app will exit to save language settings.";
+"eyes_open" = "Eyes Open";
+"eyes_closed" = "Eyes Closed";
+"mental_rotations_90" = "Mental Rotations 90°";
+"eyes_on_calibration_1" = "Eyes on Calibration 1";
+"eyes_on_calibration_2" = "Eyes on Calibration 2";
+"rotation_left" = "Rotation Left";
+"rotation_right" = "Rotation Right";
+"Male" = "Male";
+"Female" = "Female";
+"Point to the following target:" = "Point to the following target:";
+"Patient's name" = "Patient's name";
+"Patient's surname" = "Patient's surname";
+"Patient's birthday" = "Patient's birthday";
+"Patient's gender" = "Patient's gender";
+"Name of the test" = "Name of the test";
+"Mode of the test" = "Mode of the test";
+"Plain text" = "Plain text";
+"JSON" = "JSON";
+"Success" = "Success";
+"Saved to drive" = "Saved to drive";
+"Error" = "Error";
+"Problem on saving to drive" = "Problem on saving to drive";
+"Done" = "Done";
+"Delete" = "Delete";
+"Test finished." = "Test finished.";
+"Alphabetical" = "Alphabetical";
+"Shuffled" = "Shuffled";
+"View Tests" = "View Tests";
+"TestControllertitleField" = "Tap to edit.\nExample input:\nObject 1\nObject 2\nObject 3\n...\n";
+"Back" = "Back";
+"Patient's handedness" = "Patient's handedness";
+"Patient's identification number" = "Patient's identification number";
+"Lefthanded" = "Lefthanded";
+"Righthanded" = "Righthanded";
